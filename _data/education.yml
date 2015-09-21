@@ -1,8 +1,20 @@
-- org:  Washington University in St. Louis
-  role: B.S. in Systems Engineering
-  location: St. Louis, MO
-  when: Aug 2009 - May 2013
+- org:  Rochester Institute of technology
+  role: Master of Science in Networking & Systems Administration
+  location: Rochester, NY
+  when: 2009 - Present
   bullets: 
-    - 'Second Major: Physics'
-    - 'Minor: Electrical Engineering'
-    - 'Senior Project: [Scheduling Algorithm for Small Workforces](http://scheduling.philipithomas.com)'
+    - 'Senior Project: [](http://vg.github.io)'
+
+- org:  Rochester Institute of technology
+  role: Advanced Graduate Certificate in Information Assurance,
+  location: Rochester, NY
+  when: 2009 - 2011
+  bullets: 
+    - 'Senior Project: [](http://vg.github.io)'
+
+- org:  Birla Institute of Technology and Science
+  role: Bachelor of Engineering (Hons.) in Computer Science,
+  location: Pilani, India
+  when: Aug 2005 - May 2009
+  bullets: 
+    - 'Senior Project: [Beowulf Cluster](http://vg.github.io)'
